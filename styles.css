@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table{
+	border-style:solid;
+}
+.tummy{
+	background:red;
+	color:white
+}
+.row1{
+	background:pink;
+}
+.row2{
+	background:gray;
+}
+.row3{
+	background:orange
+}
