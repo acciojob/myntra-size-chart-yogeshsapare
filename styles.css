@@ -5,7 +5,8 @@ table{
 }
 .tummy{
 	background:red;
-	color:white
+	color:white;
+	margin-top:20px;
 }
 .row1{
 	background:pink;
